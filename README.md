@@ -1,2 +1,0 @@
-# cv
-First public web
